@@ -1,0 +1,9 @@
+[submodule "rn-super-app"]
+	path = rn-super-app
+	url = https://github.com/el173/rn-super-app.git
+[submodule "rn-mini-app-one"]
+	path = rn-mini-app-one
+	url = https://github.com/el173/rn-mini-app-one.git
+[submodule "rn-mini-app-two"]
+	path = rn-mini-app-two
+	url = https://github.com/el173/rn-mini-app-two.git
