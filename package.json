@@ -2,7 +2,7 @@
   "name": "@el173/rn-micro-frontend-boilerplate",
   "private": true,
   "scripts": {
-    "bootstrap": "yarn --cwd rn-mini-app-one && yarn --cwd rn-mini-app-two && yarn --cwd rn-super-app && yarn pod-install",
+    "bootstrap": "yarn --cwd rn-mini-app-one && yarn --cwd rn-mini-app-two && yarn --cwd rn-super-app",
     "pod-install": "cd rn-mini-app-one/ios/ && pod install && cd ../../rn-mini-app-two/ios/ && pod install && cd ../../rn-super-app/ios && pod install",
     "start:app1": "yarn --cwd rn-mini-app-one start",
     "start:app2": "yarn --cwd rn-mini-app-two start",
