@@ -49,3 +49,7 @@ yarn run:app1:android
 yarn run:app2:ios
 yarn run:app2:android
 ```
+
+Demo:
+
+![iOS Demo App](https://miro.medium.com/v2/resize:fit:592/1*m2-9ahLJkGZI6sy6Jq8QWg.gif)
